@@ -8,3 +8,14 @@ BrainBloom aims to offer helpful advice and support as you travel through each s
 As you travel through the dementia experience BrainBloom provides a “Dementia Guide” to help you understand dementia, offers management tips and provides access to information and resources for living with dementia.
 
 Our goal is to directly educate and empower all older adults, persons with dementia, families and caregivers while guiding them through the dementia journey.
+
+### Chatbot to help dementia patients with tasks including reminding them of medication, location and family information.
+### Cognitive test for diagnosing dementia
+
+## Researches
+
+### Predicting Progression to Dementia
+
+### Dementia Monitoring
+
+### Alzheimer Prediction
