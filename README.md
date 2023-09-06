@@ -19,3 +19,6 @@ Our goal is to directly educate and empower all older adults, persons with demen
 ### Dementia Monitoring
 
 ### Alzheimer Prediction
+
+Use features such as Age, Years of Education, Socioeconomic Status, MMSE (Mini Mental State Examination), CDR (Clinical Dementia Rating), eTIV (Estimated total intracranial volume),
+nWBV (Normalize Whole Brain Volume), ASF (Atlas Scaling Factor) to can use it predict Alzheimer.
