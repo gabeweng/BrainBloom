@@ -17,6 +17,7 @@ Our goal is to directly educate and empower all older adults, persons with demen
 ### Predicting Progression to Dementia
 
 ### Dementia Monitoring
+An open dataset TIHM can be used for remote healthcare monitoring in dementia
 
 ### Alzheimer Prediction
 
