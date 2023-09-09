@@ -11,10 +11,9 @@ Our goal is to directly educate and empower all older adults, persons with demen
 
 ### Chatbot to help dementia patients with tasks including reminding them of medication, location and family information.
 ### Cognitive test for diagnosing dementia
+Use a cognitive test such as showing a series of complex image and ask participants to verbally describe it. We can then use AI to detect it.
 
 ## Researches
-
-### Predicting Progression to Dementia
 
 ### Dementia Monitoring
 An open dataset TIHM can be used for remote healthcare monitoring in dementia
