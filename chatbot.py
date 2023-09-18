@@ -28,6 +28,20 @@ chat_history = []
 # Get the user's input.
 user_input = st.text_input("You: ")
 
+st.write("""
+  <script>
+    const speak = function(text) {
+      // ...
+    };
+  </script>
+""")
+
+# Call the JavaScript function
+st.write("""
+  <script>
+    speak("Hello, world!");
+  </script>
+""")
 # Generate a response to the user's input.
 response = generate_response(user_input)
 
