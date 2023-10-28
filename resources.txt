@@ -1,0 +1,26 @@
+https://github.com/fechinmitchell/Dementia_Chatbot_AI
+Chatbot to help dementia patients with tasks including reminding them of medication, location and family information.
+
+https://github.com/PBarnaghi/TIHM-Dataset
+TIHM: An open dataset for remote healthcare monitoring in dementia
+
+https://github.com/boguss1225/CookieJarTest
+Cognitive test for diagnosing dementia.
+
+https://github.com/charlotte-james/ML-dementia-progression
+Performance of Machine Learning Algorithms for Predicting Progression to Dementia in Memory Clinic Patients
+
+https://www.kaggle.com/datasets/shashwatwork/dementia-prediction-dataset
+Dementia Prediction
+
+https://www.kaggle.com/datasets/brsdincer/alzheimer-features
+Alzheimer Features
+
+https://www.kaggle.com/code/shreyaspj/alzheimer-s-analysis-using-mri
+Alzheimer's analysis using MRI
+
+https://github.com/NYUMedML/CNN_design_for_AD
+Generalizable deep learning model for early Alzheimer’s disease detection
+
+https://github.com/jddunn/dementia-progression-analysis
+Multi-level classification of dementia progression in MRI scans
